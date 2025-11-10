@@ -1,0 +1,25 @@
+import sys
+if len(sys.argv) == 3:
+  script_name = sys.argv[0]
+  name = sys.argv[1]
+  rollno = sys.argv[2]
+  print("User provided input values:")
+else:
+  script_name = sys.argv[0]
+  name = "Trupti"
+  rollno = "099"
+  print("No input given - using default values:")
+  
+  print("Script Name:",scrpit_name)
+  print("Student Name:",name)
+  print("Roll No:",rollno)
+  
+  
+  
+  
+  
+
+
+
+
+        
