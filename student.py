@@ -10,7 +10,7 @@ else:
   rollno = "099"
   print("No input given - using default values:")
   
-  print("Script Name:",scrpit_name)
+  print("Script Name:",script_name)
   print("Student Name:",name)
   print("Roll No:",rollno)
   
